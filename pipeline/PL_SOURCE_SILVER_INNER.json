@@ -381,9 +381,6 @@
 			"start_time": {
 				"type": "String"
 			},
-			"watermark": {
-				"type": "String"
-			},
 			"watermark_value": {
 				"type": "String"
 			}
