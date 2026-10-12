@@ -306,7 +306,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"variableName": "watermark",
+								"variableName": "watermark_value",
 								"value": {
 									"value": "@activity('Read watermark').output.firstRow.watermark_value",
 									"type": "Expression"
