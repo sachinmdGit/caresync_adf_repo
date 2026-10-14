@@ -1080,6 +1080,7 @@
 				"activities": [
 					{
 						"name": "Copy data1",
+						"description": "this is a change in description",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
