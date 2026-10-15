@@ -5,6 +5,10 @@
 			"email_recepient": {
 				"type": "string",
 				"value": "sachinkumarmd15@gmail.com"
+			},
+			"env": {
+				"type": "string",
+				"value": "DEV"
 			}
 		}
 	},
